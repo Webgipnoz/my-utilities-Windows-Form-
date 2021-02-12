@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\geek1\geek1\bin\Debug\geek1.exe.config
+C:\Users\User\source\repos\geek1\geek1\bin\Debug\geek1.exe
+C:\Users\User\source\repos\geek1\geek1\bin\Debug\geek1.pdb
+C:\Users\User\source\repos\geek1\geek1\obj\Debug\geek1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\geek1\geek1\obj\Debug\geek1.Properties.Resources.resources
+C:\Users\User\source\repos\geek1\geek1\obj\Debug\geek1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\geek1\geek1\obj\Debug\geek1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\geek1\geek1\obj\Debug\geek1.exe
+C:\Users\User\source\repos\geek1\geek1\obj\Debug\geek1.pdb
+C:\Users\User\source\repos\geek1\geek1\obj\Debug\geek1.MainForm.resources
